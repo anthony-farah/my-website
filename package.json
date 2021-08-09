@@ -1,0 +1,22 @@
+{
+  "name": "eportfolio",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "register-service-worker": "^1.7.1",
+    "vue": "^3.0.5",
+    "vue-gallery-slideshow": "^1.5.2",
+    "vue-router": "^3.5.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.3.0",
+    "@vue/cli-plugin-pwa": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.5",
+    "sass": "^1.37.0",
+    "vite": "^2.4.4"
+  }
+}
