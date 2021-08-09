@@ -9,14 +9,22 @@
   "dependencies": {
     "register-service-worker": "^1.7.1",
     "vue": "^3.0.5",
-    "vue-gallery-slideshow": "^1.5.2",
-    "vue-router": "^3.5.2"
+    "vue-router": "^4.0.5",
+    "vuex": "^4.0.0",
+    "vue-gallery-slideshow": "^1.5.2"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.3.0",
-    "@vue/cli-plugin-pwa": "~4.5.0",
+    "@vitejs/plugin-vue": "^1.2.1",
     "@vue/compiler-sfc": "^3.0.5",
-    "sass": "^1.37.0",
-    "vite": "^2.4.4"
+    "autoprefixer": "^10.2.5",
+    "eslint": "^7.23.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-vue": "^7.8.0",
+    "postcss": "^8.2.9",
+    "prettier": "^2.2.1",
+    "tailwindcss": "^2.0.4",
+    "vite": "^2.1.5",
+    "@vue/cli-plugin-pwa": "~4.5.0",
+    "sass": "^1.37.0"
   }
 }
