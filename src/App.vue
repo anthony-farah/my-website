@@ -1,7 +1,7 @@
 <template>
-<Main>
-  <router-view/>
-</Main>
+  <Main>
+    <router-view/>
+  </Main>
 </template>
 <script>
 export default {
